@@ -11,6 +11,10 @@ Welcome to my website! I am a third year Ph.D. student in the Department of Agri
 
 Please click [here](/files/BrooksCV.pdf "Matt's CV") to view my CV.
 
+## News
+
+* I will be presenting my ongoing work on adaptation to air pollution at the 2025 AERE Summer Conference.
+
 ## Research In Progress
 * Performance in Polluted Air: Do Athletes Adapt? Evidence from Cricket in India (with Faraz Usmani)
 * Strengthening Women’s Livestock Cooperatives in Nepal with an Innovative Technology Bundle (with Travis Lybbert, Conner Mullally, Nick Magnan, and Bhola Shrestha)
