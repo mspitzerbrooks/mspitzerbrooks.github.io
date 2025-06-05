@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am a third year Ph.D. student in the Department of Agricultural and Resource Economics (ARE) at University of California, Davis. My fields are development economics and environmental economics. Before starting my Ph.D., I worked at Mathematica Policy Research as a Research Analyst in its International Research Unit. I have also worked on research projects at the Busara Center for Behavioral Economics in Kenya. My undergraduate studies were in Economics and Religion (with a focus on Buddhist Philosophy) at Middlebury College.
+Welcome to my website! I am a Ph.D. Candidate in the Department of Agricultural and Resource Economics (ARE) at University of California, Davis. My fields are development economics and environmental economics. Before starting my Ph.D., I worked at Mathematica Policy Research as a Research Analyst in its International Research Unit. I have also worked on research projects at the Busara Center for Behavioral Economics in Kenya. My undergraduate studies were in Economics and Religion (with a focus on Buddhist Philosophy) at Middlebury College.
 
 Please click [here](/files/BrooksCV.pdf "Matt's CV") to view my CV.
 
 ## News
 
-* I will be presenting my ongoing work on adaptation to air pollution at the 2025 AERE Summer Conference.
+* I presented my ongoing work on adaptation to air pollution at the 2025 AERE Summer Conference.
 
 ## Research In Progress
 * Performance in Polluted Air: Do Athletes Adapt? Evidence from Cricket in India (with Faraz Usmani)
