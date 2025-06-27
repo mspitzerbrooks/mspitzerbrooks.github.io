@@ -16,7 +16,7 @@ Please click [here](/files/BrooksCV.pdf "Matt's CV") to view my CV.
 * I presented my ongoing work on adaptation to air pollution at the 2025 AERE Summer Conference.
 
 ## Research In Progress
-* Performance in Polluted Air: Do Athletes Adapt? Evidence from Cricket in India (with Faraz Usmani)
+* The Pollution–Productivity Curve: Non-linear Effects and Adaptation in High-pollution Environments (with Faraz Usmani)
 * Strengthening Women’s Livestock Cooperatives in Nepal with an Innovative Technology Bundle (with Travis Lybbert, Conner Mullally, Nick Magnan, and Bhola Shrestha)
 * Environmental Justice Implications of Pecuniary and Non-Pecuniary Costs of Accessing Environmental Goods: Experimental Evidence from California (with Shotaro Nakamura and Collin Weigel)
 * Global Spillovers in Agricultural Technology Development (with Ashish Shenoy)
