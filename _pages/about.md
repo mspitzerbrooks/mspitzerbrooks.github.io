@@ -14,7 +14,7 @@ Please click [here](/files/BrooksCV.pdf "Matt's CV") to view my CV.
 ## News
 
 * At the AAEA Annual Meeting in July 2025, I will be presenting ongoing research on how improved inventory information affects livestock market outcomes in rural Nepal.
-* I presented my ongoing work on adaptation to air pollution at the 2025 AERE Summer Conference in May and at the Indian Statistical Institute in Delhi in July.
+* I presented my ongoing work on adaptation to air pollution at the 2025 AERE Summer Conference in May and at the Indian Statistical Institute in Delhi in July ([post on X](https://x.com/cecfee/status/1945725989742334356)).
 
 ## Research In Progress
 * The Pollution–Productivity Curve: Non-linear Effects and Adaptation in High-pollution Environments (with Faraz Usmani)
