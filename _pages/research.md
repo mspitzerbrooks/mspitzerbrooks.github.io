@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 ## Research In Progress
-* Performance in Polluted Air: Do Athletes Adapt? Evidence from Cricket in India (with Faraz Usmani)
+* The Pollution–Productivity Curve: Non-linear Effects and Adaptation in High-pollution Environments (with Faraz Usmani)
 * Strengthening Women’s Livestock Cooperatives in Nepal with an Innovative Technology Bundle (with Travis Lybbert, Conner Mullally, Nick Magnan, and Bhola Shrestha)
   * Funding from [J-PAL's Digital Agricultural Innovations and Services Initiative (DAISI)](https://www.povertyactionlab.org/initiative/digital-agricultural-innovations-and-services-initiative-daisi)
   * [AEA RCT registry](https://www.socialscienceregistry.org/trials/14489)

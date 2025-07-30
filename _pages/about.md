@@ -13,12 +13,13 @@ Please click [here](/files/BrooksCV.pdf "Matt's CV") to view my CV.
 
 ## News
 
-* At the AAEA Annual Meeting in July 2025, I will be presenting ongoing research on how improved inventory information affects livestock market outcomes in rural Nepal.
+* I will be presenting ongoing work examining the interplay between short- and long-term effects of air pollution on labor productivity at the Occasional Workshop in Environmental & Resource Economics at UC Santa Barbara in October 2025.
+* At the AAEA Annual Meeting in July 2025, I presented ongoing research on how improved inventory information affects livestock market outcomes in rural Nepal.
 * I presented my ongoing work on adaptation to air pollution at the 2025 AERE Summer Conference in May and at the Indian Statistical Institute in Delhi in July ([post on X](https://x.com/cecfee/status/1945725989742334356)).
 
 ## Research In Progress
 * The Pollution–Productivity Curve: Non-linear Effects and Adaptation in High-pollution Environments (with Faraz Usmani)
-* Strengthening Women’s Livestock Cooperatives in Nepal with an Innovative Technology Bundle (with Travis Lybbert, Conner Mullally, Nick Magnan, and Bhola Shrestha)
+* Got Goat? The Effects of a Digital Inventory Tool on Livestock Market Outcomes in Rural Nepal (with Travis Lybbert, Conner Mullally, Nick Magnan)
 * Environmental Justice Implications of Pecuniary and Non-Pecuniary Costs of Accessing Environmental Goods: Experimental Evidence from California (with Shotaro Nakamura and Collin Weigel)
 * Global Spillovers in Agricultural Technology Development (with Ashish Shenoy)
 
