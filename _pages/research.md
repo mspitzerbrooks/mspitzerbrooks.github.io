@@ -10,7 +10,7 @@ redirect_from:
 
 ## Research In Progress
 * The Pollution–Productivity Curve: Non-linear Effects and Adaptation in High-pollution Environments (with Faraz Usmani)
-* Strengthening Women’s Livestock Cooperatives in Nepal with an Innovative Technology Bundle (with Travis Lybbert, Conner Mullally, Nick Magnan, and Bhola Shrestha)
+* Got Goat? The Effects of a Digital Inventory Tool on Livestock Market Outcomes in Rural Nepal (with Travis Lybbert, Conner Mullally, Nick Magnan)
   * Funding from [J-PAL's Digital Agricultural Innovations and Services Initiative (DAISI)](https://www.povertyactionlab.org/initiative/digital-agricultural-innovations-and-services-initiative-daisi)
   * [AEA RCT registry](https://www.socialscienceregistry.org/trials/14489)
 * Environmental Justice Implications of Pecuniary and Non-Pecuniary Costs of Accessing Environmental Goods: Experimental Evidence from California (with Shotaro Nakamura and Collin Weigel)
