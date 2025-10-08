@@ -21,11 +21,11 @@ Please click [here](/files/BrooksCV.pdf "Matt's CV") to view my CV.
 ## Research In Progress
 * The Pollution–Productivity Curve: Non-linear Effects and Adaptation in High-pollution Environments (with Faraz Usmani)
 * Got Goat? The Effects of a Digital Inventory Tool on Livestock Market Outcomes in Rural Nepal (with Travis Lybbert, Conner Mullally, Nick Magnan)
-* Environmental Justice Implications of Pecuniary and Non-Pecuniary Costs of Accessing Environmental Goods: Experimental Evidence from California (with Shotaro Nakamura and Collin Weigel)
+* Environmental Justice and the Costs of Accessing Clean Air: Experimental Evidence from California (with Shotaro Nakamura and Collin Weigel)
 * Global Spillovers in Agricultural Technology Development (with Ashish Shenoy)
 
 ## Education
 * Ph.D. in Agricultural and Resource Economics, UC Davis (in progress)
 * M.S. in Agricultural and Resource Economics, UC Davis, 2024
-* B.A. in Economics and Religion, Middlebury College, 2017
+* B.A. in Economics and Religion (double major), Middlebury College, 2017
   * Kathmandu University, Centre for Buddhist Studies at Rangjung Yeshe Institute, 2014-2015
