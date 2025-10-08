@@ -7,11 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am an applied microeconomist working at the intersection of environmental and development economics. My job market paper examines how the marginal effect of air pollution on labor productivity varies by past exposure to air pollution, with implications for environmental regulation in developing economies where chronic exposure is widespread. 
-
-My research agenda focuses on how market failures such as environmental externalities and imperfect information affect market efficiency and equity. I analyze publicly accessible data--including remotely sensed and machine learning data products--in new ways to answer previously unasked questions. My research also employs randomized controlled trials, with ongoing field work in collaboration with NGO partners in Nepal and the state government of California. 
-
-Prior to my Ph.D., I worked as a Research Analyst at Mathematica Policy Research, where I analyzed large administrative and survey datasets for impact evaluations of international development programs in Kenya, India, Liberia, Burkina Faso, Morocco, Jordan, Indonesia, and Nepal. My undergraduate studies were in Economics and Religion (with a focus on Buddhist Philosophy) at Middlebury College.
+Welcome to my website! I am an applied microeconomist working at the intersection of environmental and development economics. My job market paper examines how the effect of air pollution on labor productivity varies by past exposure to air pollution, with implications for environmental regulation in developing economies where chronic exposure is widespread. Broadly, my research agenda focuses on the role of market failures such as environmental externalities and imperfect information in economic development. My undergraduate studies were in Economics and Religion (with a focus on Buddhist Philosophy) at Middlebury College.
 
 Please click [here](/files/BrooksCV.pdf "Matt's CV") to view my CV.
 
