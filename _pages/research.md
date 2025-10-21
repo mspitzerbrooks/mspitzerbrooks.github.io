@@ -8,8 +8,12 @@ redirect_from:
 
 {% include base_path %}
 
-## Research In Progress
-* The Pollution–Productivity Curve: Non-linear Effects and Adaptation in High-pollution Environments (with Faraz Usmani)
+## Research in Progress
+
+* The Pollution–Productivity Curve: Non-linear Effects and Adaptation in High-pollution Environments (with Faraz Usmani) **Job Market Paper**
+
+  **Abstract.** Air pollution harms labor productivity, yet little is known about whether workers adapt to chronic exposure. We address this question using performance data from India's premier cricket league, which provides exogenous variation in both acute pollution exposure and long-term exposure histories. We find that a 10 µg/m³ increase in PM2.5 reduces productivity by about 1 percent, with effects concentrated at extreme pollution levels that far exceed WHO guidelines. However, workers appear to adapt: performance among those with the highest levels of chronic exposure shows dramatically smaller responses to acute pollution episodes, with the most chronically exposed experiencing approximately 40 percent lower productivity losses than those with median exposure histories. Our findings suggest that standard estimates from low-pollution environments poorly capture the dynamics between short- and long-term exposure in high-pollution settings, with important implications for environmental regulation in developing economies where chronic exposure is widespread.
+
 * Got Goat? The Effects of a Digital Inventory Tool on Livestock Market Outcomes in Rural Nepal (with Travis Lybbert, Conner Mullally, Nick Magnan)
   * Funding from [J-PAL's Digital Agricultural Innovations and Services Initiative (DAISI)](https://www.povertyactionlab.org/initiative/digital-agricultural-innovations-and-services-initiative-daisi)
   * [AEA RCT registry](https://www.socialscienceregistry.org/trials/14489)
