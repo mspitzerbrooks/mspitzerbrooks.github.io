@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am an applied microeconomist working at the intersection of environmental and development economics. My job market paper examines how the effect of air pollution on labor productivity varies by past exposure to air pollution, with implications for environmental regulation in developing economies where chronic exposure is widespread. Broadly, my research agenda focuses on the role of market failures such as environmental externalities and imperfect information in economic development. My undergraduate studies were in Economics and Religion (with a focus on Buddhist Philosophy) at Middlebury College.
+Welcome to my website! I am an applied microeconomist working at the intersection of environmental and development economics. My job market paper examines how the effect of air pollution on labor productivity varies by past exposure to air pollution, with implications for environmental regulation in developing economies where chronic exposure is widespread. Broadly, my research agenda focuses on the role of market failures such as environmental externalities and imperfect information in economic development. 
+
+My undergraduate studies were in Economics and Religion (with a focus on Buddhist Philosophy) at Middlebury College. In addition to research, teaching is integral to my scholarship. I enjoy inspiring students to see how economics can provide useful tools and models for quantifying and analyzing complex phenomena.
 
 Please click [here](/files/BrooksCV.pdf "Matt's CV") to view my CV.
 
@@ -21,8 +23,10 @@ Please click [here](/files/BrooksCV.pdf "Matt's CV") to view my CV.
 ## Research in Progress
 
 * The Pollution–Productivity Curve: Non-linear Effects and Adaptation in High-pollution Environments (with Faraz Usmani) **Job Market Paper**
-
-  **Abstract.** Air pollution harms labor productivity, yet little is known about whether workers adapt to chronic exposure. We address this question using performance data from India's premier cricket league, which provides exogenous variation in both acute pollution exposure and long-term exposure histories. We find that a 10 µg/m³ increase in PM2.5 reduces productivity by about 1 percent, with effects concentrated at extreme pollution levels that far exceed WHO guidelines. However, workers appear to adapt: performance among those with the highest levels of chronic exposure shows dramatically smaller responses to acute pollution episodes, with the most chronically exposed experiencing approximately 40 percent lower productivity losses than those with median exposure histories. Our findings suggest that standard estimates from low-pollution environments poorly capture the dynamics between short- and long-term exposure in high-pollution settings, with important implications for environmental regulation in developing economies where chronic exposure is widespread.
+  <details>
+    <summary><strong>Show Abstract</strong></summary>
+    <p>Air pollution harms labor productivity, yet little is known about whether workers adapt to chronic exposure. We address this question using performance data from India's premier cricket league, which provides exogenous variation in both acute pollution exposure and long-term exposure histories. We find that a 10 microgram per cubic meter increase in PM2.5 reduces productivity by about 1 percent, with effects concentrated at extreme pollution levels that far exceed WHO guidelines. However, workers appear to adapt: performance among those with the highest levels of chronic exposure shows dramatically smaller responses to acute pollution episodes, with the most chronically exposed experiencing approximately 40 percent lower productivity losses than those with median exposure histories. Our findings suggest that standard estimates from low-pollution environments poorly capture the dynamics between short- and long-term exposure in high-pollution settings, with important implications for environmental regulation in developing economies where chronic exposure is widespread.</p>
+  </details>
 
 * Got Goat? The Effects of a Digital Inventory Tool on Livestock Market Outcomes in Rural Nepal (with Travis Lybbert, Conner Mullally, Nick Magnan)
 * Environmental Justice and the Costs of Accessing Clean Air: Experimental Evidence from California (with Shotaro Nakamura and Collin Weigel)
