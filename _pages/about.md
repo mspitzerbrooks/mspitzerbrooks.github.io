@@ -15,7 +15,7 @@ Please click [here](/files/BrooksCV.pdf "Matt's CV") to view my CV.
 
 ## News
 
-* I will be presenting ongoing work examining the interplay between short- and long-term effects of air pollution on labor productivity at the Occasional Workshop in Environmental & Resource Economics at UC Santa Barbara in October 2025.
+* I will presented ongoing work examining the interplay between short- and long-term effects of air pollution on labor productivity at the Occasional Workshop in Environmental & Resource Economics at UC Santa Barbara in October 2025.
 * In July 2025, the Standing Panel on Impact Assessment published a [technical note](https://iaes.cgiar.org/spia/publications/does-innovations-reach-reveal-anything-about-its-impact-under-right-conditions) I worked on about the relationship between adoption of interventions and their impacts.
 * At the AAEA Annual Meeting in July 2025, I presented ongoing research on how improved inventory information affects livestock market outcomes in rural Nepal.
 * I presented my ongoing work on adaptation to air pollution at the 2025 AERE Summer Conference in May and at the Indian Statistical Institute in Delhi in July ([post on X](https://x.com/cecfee/status/1945725989742334356)).
