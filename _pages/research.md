@@ -10,7 +10,7 @@ redirect_from:
 
 ## Research in Progress
 
-* The Pollution–Productivity Curve: Non-linear Effects and Adaptation in High-pollution Environments (with Faraz Usmani) **Job Market Paper**
+* The Pollution–Productivity Curve: Non-linear Effects and Adaptation in High-pollution Environments (with Faraz Usmani) *Draft available upon request*
   <details>
     <summary><strong>Show Abstract</strong></summary>
     <p>Air pollution harms labor productivity, yet little is known about whether workers adapt to chronic exposure. We address this question using performance data from India's premier cricket league, which provides exogenous variation in both acute pollution exposure and long-term exposure histories. We find that a 10 microgram per cubic meter increase in PM2.5 (equivalent to one-half of a standard deviation in our sample) reduces productivity by about 1 percent, with effects concentrated at extreme pollution levels that far exceed WHO guidelines. However, workers appear to adapt: those with the highest levels of chronic exposure show a dramatically smaller response to acute pollution episodes, with the most chronically exposed experiencing approximately 40 percent smaller productivity losses than those with median exposure histories. Our findings suggest that standard estimates from low-pollution environments poorly capture the dynamics between short- and long-term exposure in high-pollution settings, with important implications for environmental regulation in developing economies where chronic exposure is widespread.</p>
