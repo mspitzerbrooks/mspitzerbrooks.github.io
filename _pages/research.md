@@ -10,6 +10,10 @@ redirect_from:
 
 ## Peer-Reviewed Publications
 * "A Taste for Taxes: Minimizing Distortions Using Political Preferences.” 2019. *Journal of Public Economics*, vol. 180, p. 104055. With Andrea Robbett and Emiliano Huet-Vaughn. [doi.org/10.1016/j.jpubeco.2019.104055](https://www.doi.org/10.1016/j.jpubeco.2019.104055)
+  <details>
+    <summary><small><strong>Show Abstract</strong></small></summary>
+    <p>We conduct an experiment with online workers to assess whether the distortionary effect of a tax is sensitive to the ideological match between taxpayer and tax expenditures. We find that, among self-identified political moderates, the labor supply elasticity with respect to the net of tax wage is significantly smaller when individuals pay taxes to a favored government agency as compared to an unfavored one. While the tax has a significant distortionary effect in the latter case, with a point estimate for the labor supply elasticity of approximately 0.77, the elasticity point estimate is close to zero when taxes go to a favored agency. There is also an increase in total output for the matched population among moderates. There is no evidence that these effects hold for self-identified liberals or conservatives.</p>
+  </details>
 
 ## Research in Progress
 
@@ -18,19 +22,22 @@ redirect_from:
     <summary><small><strong>Show Abstract</strong></small></summary>
     <p>Air pollution harms labor productivity, yet little is known about whether workers adapt to chronic exposure. We address this question using 14 years of individual-level performance data from India's premier cricket league, a setting characterized by some of the highest levels of particulate matter air pollution (PM2.5) and whose schedule and geography result in variation in both acute and chronic exposure histories. We pair these granular performance metrics with an India-specific machine learning data product that incorporates remotely sensed and ground-monitor measures of PM2.5. Our results reveal that both chronic and acute exposure to pollution are costly, but in different ways. A 10 microgram-per-cubic-meter increase in same-day PM2.5 concentration (half a standard deviation in our sample) reduces productivity by about 1 percent, with effects concentrated at the highest pollution levels, implying a nonlinear dose-response. The dose-response also exhibits surprising heterogeneity: same-day shocks harm those chronically exposed at the highest levels approximately 40 percent less than those with median exposure histories, indicating adaptation. Nevertheless, chronic exposure itself results in performance declines that, though smaller in magnitude than the declines resulting from same-day shocks, far outweigh any protective effect from adaptation. Our findings suggest that standard estimates from low-pollution environments do not capture the dynamics between acute and chronic exposure in high-pollution settings.</p>
   </details>
-  <small><strong>Conference Presentations & Invited Seminars:</strong></small>
+  <small><strong>Invited Seminars:</strong></small>
   <small>
-    University of Colorado Boulder Environmental & Resource Economics Workshop; 
-    Association of Environmental and Resource Economists 2025 Annual Conference; 
     Indian Statistical Institute, Delhi; 
-    University of Massachusetts - Amherst, Resource Economics; 
-    Occasional Workshop in Environmental & Resource Economics at UC Santa Barbara
+    University of Massachusetts, Amherst
+  </small><br>
+  <small><strong>Conference Presentations:</strong></small>
+  <small>
+    Association of Environmental and Resource Economists (AERE) 2025 Annual Conference; 
+    Occasional Workshop in Environmental & Resource Economics at UC Santa Barbara;
+    University of Colorado Boulder Environmental & Resource Economics Workshop
   </small>
 
 * Got Goat? The Effects of a Digital Inventory Tool on Livestock Market Outcomes in Rural Nepal (with Travis Lybbert, Conner Mullally, Nick Magnan) <br>
   <small><strong>Conference Presentations:</strong></small>
   <small>
-    Agricultural and Applied Economics Association 2025 Annual Meeting
+    Agricultural and Applied Economics Association (AAEA) 2025 Annual Meeting
   </small>
   <br><small><strong> Funding:</strong></small>
   <small>
@@ -42,7 +49,7 @@ redirect_from:
 * Environmental Justice and the Costs of Accessing Clean Air: Experimental Evidence from California (with Shotaro Nakamura and Collin Weigel) <br>
   <small><strong>Conference Presentations:</strong></small>
   <small>
-    UC Berkeley/Davis Giannini Foundation of Agricultural and Resource Economics Student Conference; UChicago Advances with Field Experiments (AFE) 2025 Conference
+    University of Chicago Advances with Field Experiments (AFE) 2025 Conference; UC Berkeley/Davis Giannini Foundation of Agricultural and Resource Economics Student Conference
   </small>
   <br><small><strong> Funding:</strong></small>
   <small>

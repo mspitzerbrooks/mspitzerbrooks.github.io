@@ -35,7 +35,7 @@ Please click [here](/files/BrooksCV.pdf "Matt's CV") to view my CV.
 * Got Goat? The Effects of a Digital Inventory Tool on Livestock Market Outcomes in Rural Nepal (with Travis Lybbert, Conner Mullally, Nick Magnan) <br>
   <small><strong>Conference Presentations:</strong></small>
   <small>
-    Agricultural and Applied Economics Association 2025 Annual Meeting
+    Agricultural and Applied Economics Association (AAEA) 2025 Annual Meeting
   </small>
   <br><small><strong> Funding:</strong></small>
   <small>
