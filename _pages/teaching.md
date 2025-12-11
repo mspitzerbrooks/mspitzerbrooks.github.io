@@ -32,3 +32,14 @@ author_profile: true
     - "Matthew is really clear with the way he explains things"
     - "...he is extremely helpful. He would explain everything in depth and wouldn't move onto the next topic until everyone was on board. I really like his teaching style as well."
     - "I appreciate how discussion was able to teach me specific methods of doing problems which lecture never did."
+
+## Training
+
+- [Diversity and Inclusion in Research, Education, and Career Training Program](https://direct.ucdavis.edu/) at UC Davis
+  - [Graduate Inclusive Education and Mentoring Training (GET) Workshop](https://direct.ucdavis.edu/get-workshop), Sep 2-5 2025
+
+  **Description:** This modular training program invites participants to critically reflect on reaching diverse audiences within the field of economics, and discusses inclusive teaching and mentoring practices. 
+  
+  **Learning objectives:**
+    1. Critically reflect on the reaching of diverse audiences in research, teaching, and mentorship within academia and economics as a discipline.
+    2. Explore high-impact teaching and mentoring practices that can integrate UC Davis principles of community into your educational approaches and create a stronger sense of belonging for each of us as well as our students within Agricultural and Resource Economics. 
