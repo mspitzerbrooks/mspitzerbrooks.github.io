@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am an applied microeconomist working at the intersection of environmental and development economics. My research focuses on the role of market failures such as environmental externalities and information frictions in economic development.
+Welcome to my website! I am an applied microeconomist working at the intersection of environmental, health, and development economics. My research focuses on the health and human capital impacts of exposure to environmental harms. I also have work on the role of information frictions in economic development.
 
-My undergraduate studies were in Economics and Religion (with a focus on Buddhist Philosophy) at Middlebury College. In addition to research, I enjoy inspiring students to see how economics can provide useful tools and models for quantifying and analyzing complex phenomena.
+My undergraduate studies were in Economics and Religion (with a focus on Buddhist Philosophy) at Middlebury College. My senior thesis there focused on the role of partisan preferences in taxation and was published in the *Journal of Public Economics*. I studied abroad in Nepal as a college student and have ongoing fieldwork there as part of a J-PAL funded RCT.
+
+Prior to UC Davis, I worked at Mathematica Policy Research for four years on a range of international development impact evaluations in global health, energy infrastructure, and social protection. 
+
+In addition to research, I enjoy inspiring students to see how economics can provide useful tools and models for analyzing issues like climate change, environmental justice, and income inequality.
 
 Please click [here](/files/BrooksCV.pdf "Matt's CV") to view my CV.
 
