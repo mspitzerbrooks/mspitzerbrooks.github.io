@@ -57,6 +57,8 @@ Please click [here](/files/BrooksCV.pdf "Matt's CV") to view my CV.
   <small>
     [California Air Resources Board](https://ww2.arb.ca.gov/)
   </small>
+  <br><small><strong> Pre-Analysis Plan:</strong></small>
+  <small>[AEA RCT registry](https://www.socialscienceregistry.org/trials/17499)</small>
 
 * Global Spillovers in Agricultural Technology Development (with Ashish Shenoy)
 
