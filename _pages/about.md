@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am an applied microeconomist working at the intersection of environmental, health, and development economics. My research focuses on the health and human capital impacts of exposure to environmental harms. I also have work on the role of information frictions in economic development.
+Welcome to my website! I am an applied microeconomist working at the intersection of environmental and development economics. My research focuses on the health and human capital impacts of exposure to environmental harms. I also have work on the role of information frictions in economic development.
 
 My undergraduate studies were in Economics and Religion (with a focus on Buddhist Philosophy) at Middlebury College. My senior thesis there focused on the role of partisan preferences in taxation and was published in the *Journal of Public Economics*. I studied abroad in Nepal as a college student and have ongoing fieldwork there as part of a J-PAL funded RCT.
 
@@ -16,6 +16,14 @@ Prior to UC Davis, I worked at Mathematica Policy Research for four years on a r
 In addition to research, I enjoy inspiring students to see how economics can provide useful tools and models for analyzing issues like climate change, environmental justice, and income inequality.
 
 Please click [here](/files/BrooksCV.pdf "Matt's CV") to view my CV.
+
+## News
+
+- I will be attending the World Congress of Environmental and Resource Economics in Portugal this June where I will present "The Pollution–Productivity Curve: Non-linear Effects and Adaptation in High-pollution Environments."
+
+- I will be attending the Agricultural and Applied Economics Association Annual Meeting in Kansas City this July where I will present on each of the following projects: "The Pollution–Productivity Curve: Non-linear Effects and Adaptation in High-pollution Environments", "Monetary and Non-monetary Barriers to Accessing Environmental Public Benefit Programs: Experimental Evidence from California", and "Strengthening Women's Livestock Cooperatives in Nepal with an Innovative Technology Bundle."
+
+If you will be around and want to chat about research or just catch up over coffee, feel free to reach out!
 
 ## Research in Progress
 
@@ -33,7 +41,10 @@ Please click [here](/files/BrooksCV.pdf "Matt's CV") to view my CV.
   <small>
     Association of Environmental and Resource Economists (AERE) 2025 Annual Conference; 
     Occasional Workshop in Environmental & Resource Economics at UC Santa Barbara;
-    University of Colorado Boulder Environmental & Resource Economics Workshop
+    University of Colorado Boulder Environmental & Resource Economics Workshop;
+    Pacific Development Economics Conference (PacDev) 2026 at UC Davis;
+    World Congress of Environmental and Resource Economists 2026 at NOVA SBE, Portugal (scheduled);
+    Agricultural and Applied Economics Association (AAEA) 2026 Annual Meeting (Kansas City) (scheduled)
   </small>
 
 * Got Goat? The Effects of a Digital Inventory Tool on Livestock Market Outcomes in Rural Nepal (with Travis Lybbert, Conner Mullally, Nick Magnan) <br>
@@ -48,10 +59,12 @@ Please click [here](/files/BrooksCV.pdf "Matt's CV") to view my CV.
   <br><small><strong> Pre-Analysis Plan:</strong></small>
   <small>[AEA RCT registry](https://www.socialscienceregistry.org/trials/14489)</small>
 
-* Environmental Justice and the Costs of Accessing Clean Air: Experimental Evidence from California (with Shotaro Nakamura and Collin Weigel) <br>
+* Monetary and Non-monetary Barriers to Accessing Environmental Public Benefit Programs: Experimental Evidence from California (with Shotaro Nakamura and Collin Weigel) <br>
   <small><strong>Conference Presentations:</strong></small>
   <small>
-    University of Chicago Advances with Field Experiments (AFE) 2025 Conference; UC Berkeley/Davis Giannini Foundation of Agricultural and Resource Economics Student Conference
+    Agricultural and Applied Economics Association (AAEA) 2026 Annual Meeting (Kansas City) (scheduled);
+    University of Chicago Advances with Field Experiments (AFE) 2025 Conference; 
+    UC Berkeley/Davis Giannini Foundation of Agricultural and Resource Economics Student Conference (2025)
   </small>
   <br><small><strong> Funding:</strong></small>
   <small>

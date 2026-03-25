@@ -31,7 +31,10 @@ redirect_from:
   <small>
     Association of Environmental and Resource Economists (AERE) 2025 Annual Conference; 
     Occasional Workshop in Environmental & Resource Economics at UC Santa Barbara;
-    University of Colorado Boulder Environmental & Resource Economics Workshop
+    University of Colorado Boulder Environmental & Resource Economics Workshop;
+    Pacific Development Economics Conference (PacDev) 2026 at UC Davis;
+    World Congress of Environmental and Resource Economists 2026 at NOVA SBE, Portugal (scheduled);
+    Agricultural and Applied Economics Association (AAEA) 2026 Annual Meeting (Kansas City) (scheduled)
   </small>
 
 * Got Goat? The Effects of a Digital Inventory Tool on Livestock Market Outcomes in Rural Nepal (with Travis Lybbert, Conner Mullally, Nick Magnan) <br>
@@ -46,10 +49,12 @@ redirect_from:
   <br><small><strong> Pre-Analysis Plan:</strong></small>
   <small>[AEA RCT registry](https://www.socialscienceregistry.org/trials/14489)</small>
 
-* Environmental Justice and the Costs of Accessing Clean Air: Experimental Evidence from California (with Shotaro Nakamura and Collin Weigel) <br>
+* Monetary and Non-monetary Barriers to Accessing Environmental Public Benefit Programs: Experimental Evidence from California (with Shotaro Nakamura and Collin Weigel) <br>
   <small><strong>Conference Presentations:</strong></small>
   <small>
-    University of Chicago Advances with Field Experiments (AFE) 2025 Conference; UC Berkeley/Davis Giannini Foundation of Agricultural and Resource Economics Student Conference
+    Agricultural and Applied Economics Association (AAEA) 2026 Annual Meeting (Kansas City) (scheduled);
+    University of Chicago Advances with Field Experiments (AFE) 2025 Conference; 
+    UC Berkeley/Davis Giannini Foundation of Agricultural and Resource Economics Student Conference (2025)
   </small>
   <br><small><strong> Funding:</strong></small>
   <small>
