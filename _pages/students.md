@@ -5,7 +5,7 @@ permalink: /students/
 author_profile: true
 ---
 
-This is a resource hub for undergraduate students taking economics courses at UC Davis who are interested in learning more about research opportunities and the path to graduate studies. There is lots of material on the internet; my goal here is to curate some quality, relevant material in the hope that it is a useful starting point.
+This is a resource hub for students (primarily undergraduates taking economics courses at UC Davis) who are interested in learning more about research opportunities and the path to graduate studies. There is lots of material on the internet; my goal here is to curate some quality, relevant material in the hope that it is a useful starting point.
 
 If you are interested in learning more about research and/or how to prepare for graduate school, I am happy to meet - please feel free to come up to me after class or reach out via email.
 
@@ -17,7 +17,7 @@ If you are interested in learning more about research and/or how to prepare for 
 * [Applied Economics Research Course](https://direct.ucdavis.edu/summer-applied-economics-research-course-fall-2023) 
   * A five-week course mentoring students on independent research. Emphasis on designing a research
 question, working with data, and applying econometric techniques.
-  * A great chance to see if you like doing research. I will be a co-instructor in Summer Session II 2026!
+  * A great chance to see if you like doing research. I will be a co-instructor in Summer 2026!
 
 ### Considering a PhD?
 
@@ -30,6 +30,7 @@ question, working with data, and applying econometric techniques.
 ### Applying to PhD programs?
 
 * [Chris Blattman's "Writing Your Statement of Purpose"](https://chrisblattman.com/blog/2022/01/11/phd-applicants-writing-your-statement-of-purpose/)
+* A comprehensive list of resources from the [Economics Mentoring Program](https://www.economicsmentoringprogram.com/phd-application-resources)
 
 ### Interested in jobs in international development?
 
