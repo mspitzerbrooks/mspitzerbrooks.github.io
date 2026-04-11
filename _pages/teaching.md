@@ -8,18 +8,18 @@ author_profile: true
 ## Upcoming teaching
 
 **Instructor for [Summer 2026 Applied Economics Research Course](https://direct.ucdavis.edu/summer-applied-economics-research-course-fall-2023)** (UC Davis, undergraduate)
-  - **Course description:** Students will work on one of three data sets and broad topics that they can use to define their own research question and complete a research project related to a current challenge facing California communities. Working in small teams, students are supervised by ARE faculty and graduate students.
+  - **Course description:** A five-week course mentoring students on independent research. Emphasis on designing a research question, working with data, and applying econometric techniques. Prerequisite: ARE 106 — Econometric Theory & Applications.
 
-**Guest lecture in ARE 133: Introduction to Behavioral Economics** on April 7, 2026 (UC Davis, undergraduate)
-  - **Course description:** Inclusion of non-economic factors such as psychological principles in economic decisions and model predictions. Emphasis on behavioral principles, resulting strategies and implications for diverse market settings.
-  - **Guest lecture topic:** "Monetary and Non-monetary Barriers to Accessing Environmental Public Benefit Programs: Experimental Evidence from California"
-
-## Past teaching
+## Teaching experience
 
 **TA for ARE/ECN 115A Economic Development** (Winter 2026, UC Davis, undergraduate)
   - **Course description:** The world has become much richer since the 19th Century as many countries have achieved unprecedented rates of economic growth. Yet there remain many poor countries and, even in richer countries, many poor people. This course examines the process of economic development, including the determinants of poverty. We will use economics—primarily microeconomics—to describe and understand the many issues developing countries face and the constraints and motivations that govern the choices of individuals and households in these contexts. We will frequently connect our discussions to specific policy options and to the functioning of government, non-profit, and for-profit entities.
   - **Excerpts from student evaluations:**
     - "This TA was very approachable and was more than happy to sit down and explain certain topics during or after discussion. He demonstrated a clear motivation to help us learn and would answer any questions we had, in clear and understandable ways. He also just seemed like a chill dude and his dog was super cool too, both of which produced a vibe that made me want to come to discussion."
+
+**Guest lecture in ARE 133: Introduction to Behavioral Economics** on April 7, 2026 (UC Davis, undergraduate)
+  - **Course description:** Inclusion of non-economic factors such as psychological principles in economic decisions and model predictions. Emphasis on behavioral principles, resulting strategies and implications for diverse market settings.
+  - **Guest lecture topic:** "Monetary and Non-monetary Barriers to Accessing Environmental Public Benefit Programs: Experimental Evidence from California"
 
 **Guest lecture in ARE 176: Environmental Economics** on December 3, 2025 (UC Davis, undergraduate)
   - **Course description:** Role of the environment in economic activity and methods for protecting and enhancing environmental quality; implications of market failures for public policy; design of environmental policy; theory of welfare measurement; measuring the benefits of environmental improvement.
@@ -45,7 +45,3 @@ author_profile: true
   - [Graduate Inclusive Education and Mentoring Training (GET) Workshop](https://direct.ucdavis.edu/get-workshop), Sep 2-5 2025
 
   **Description:** This modular training program invites participants to critically reflect on reaching diverse audiences within the field of economics, and discusses inclusive teaching and mentoring practices. 
-  
-  **Learning objectives:**
-    1. Critically reflect on the reaching of diverse audiences in research, teaching, and mentorship within academia and economics as a discipline.
-    2. Explore high-impact teaching and mentoring practices that can integrate UC Davis principles of community into your educational approaches and create a stronger sense of belonging for each of us as well as our students within Agricultural and Resource Economics. 
