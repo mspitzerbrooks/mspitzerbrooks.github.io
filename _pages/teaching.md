@@ -20,6 +20,9 @@ author_profile: true
 **Guest lecture in ARE 133: Introduction to Behavioral Economics** on April 7, 2026 (UC Davis, undergraduate)
   - **Course description:** Inclusion of non-economic factors such as psychological principles in economic decisions and model predictions. Emphasis on behavioral principles, resulting strategies and implications for diverse market settings.
   - **Guest lecture topic:** "Monetary and Non-monetary Barriers to Accessing Environmental Public Benefit Programs: Experimental Evidence from California"
+  - **Excerpts from student evaluations:**
+    - "I like the thoughtfulness in the way he presented! He broke down concepts and then relayed how that showed in his research and findings — very comprehensible!"
+    - "I love how he introduced and explained everything. And how we got to talk to eachother of what we thought would happen before seeing results."
 
 **Guest lecture in ARE 176: Environmental Economics** on December 3, 2025 (UC Davis, undergraduate)
   - **Course description:** Role of the environment in economic activity and methods for protecting and enhancing environmental quality; implications of market failures for public policy; design of environmental policy; theory of welfare measurement; measuring the benefits of environmental improvement.
