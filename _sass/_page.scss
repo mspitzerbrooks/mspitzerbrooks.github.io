@@ -399,3 +399,32 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+/* ==========================================================================
+   ABSTRACT TOGGLE
+   ========================================================================== */
+
+.toggle-abs {
+  background: $lighter-gray;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  padding: 0.15em 0.5em;
+  font-size: $type-size-6;
+  font-family: $sans-serif;
+  color: $dark-gray;
+  cursor: pointer;
+
+  &:hover {
+    background: $light-gray;
+    color: $darker-gray;
+  }
+}
+
+.abstract-body {
+  border-left: 3px solid $border-color;
+  padding: 0.5em 0.75em;
+  margin-top: 0.5em;
+  font-size: $type-size-6;
+  color: $dark-gray;
+}
