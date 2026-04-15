@@ -42,4 +42,4 @@ author_profile: true
 ## Training
 
 - [Diversity and Inclusion in Research, Education, and Career Training Program](https://direct.ucdavis.edu/) at UC Davis
-  - [Graduate Inclusive Education and Mentoring Training (GET) Workshop](https://direct.ucdavis.edu/get-workshop), Sep 2-5 2025
+  - [Graduate Inclusive Education and Mentoring Training (GET) Workshop](https://direct.ucdavis.edu/get-workshop), Sep 2-5 20251
