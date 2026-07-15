@@ -16,11 +16,11 @@ redirect_from:
 ## Research in Progress
 
 * **[The Pollution–Productivity Curve: Non-Linear Effects and Adaptation in High-Pollution Environments](http://mspitzerbrooks.github.io/files/Brooks_PollutionProductivityCurve.pdf) (Job Market Paper)**<br>
-  <em>With Faraz Usmani</em><br>
+  <em>With Faraz Usmani. Submitted.</em><br>
   <button class="toggle-abs" onclick="toggleAbstract('abs-pollution-productivity', this)">Abstract</button>
   <div id="abs-pollution-productivity" class="abstract-body" hidden>This paper provides novel evidence that workers in a high particulate matter air pollution setting partially adapt to chronic exposure, but that adaptation does not offset cumulative harm. Using ball-by-ball data from professional cricket in India, we find that a 10 µg/m3 increase in same-day PM2.5 reduces performance by about 1 percent. Effects are non-linear, with the largest marginal damages above approximately 50 µg/m3. Workers with the highest past exposure are roughly 40 percent less sensitive to acute shocks than those with median exposure histories, consistent with adaptation. Nevertheless, chronic exposure degrades performance by more than this adaptation offsets.</div>
   <small><strong>Invited Seminars:</strong> Indian Statistical Institute, Delhi · University of Massachusetts, Amherst · Middlebury College</small><br>
-  <small><strong>Conferences:</strong> AERE 2025 · UCSB Occasional Workshop in E&amp;RE · UC Boulder E&amp;RE Workshop · PacDev 2026 · WCERE 2026 (scheduled) · AAEA 2026 (scheduled)</small>
+  <small><strong>Conferences:</strong> AERE 2025 · UCSB Occasional Workshop in E&amp;RE · UC Boulder E&amp;RE Workshop · PacDev 2026 · WCERE 2026 · AAEA 2026 (scheduled)</small>
 
 * **Monetary and Non-monetary Barriers to Accessing Environmental Public Benefit Programs: Experimental Evidence from California** <br>
   <em>With Shotaro Nakamura and Collin Weigel</em><br>
