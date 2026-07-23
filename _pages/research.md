@@ -24,11 +24,16 @@ redirect_from:
 
 * **Monetary and Non-monetary Barriers to Accessing Environmental Public Benefit Programs: Experimental Evidence from California** <br>
   <em>With Shotaro Nakamura and Collin Weigel</em><br>
-  <small><strong>Conferences:</strong> AAEA 2026 (scheduled) · AFE 2025 · Giannini Student Conference 2025 &nbsp;·&nbsp; <strong>Funding:</strong> <a href="https://ww2.arb.ca.gov/">California Air Resources Board</a> &nbsp;·&nbsp; <strong>PAP:</strong> <a href="https://www.socialscienceregistry.org/trials/17499">AEA RCT Registry</a></small>
+  <button class="toggle-abs" onclick="toggleAbstract('abs-carb', this)">Abstract</button>
+  <div id="abs-carb" class="abstract-body" hidden>This paper shows that administrative hassles in an environmental public benefit program application shift the applicant pool away from the intended beneficiaries. In a randomized controlled trial with 100,000 households in California, we randomly vary the subsidy rate (0-100%) and administrative hassles in an application for a subsidized air purifier. Lowering the subsidy rate lowers application rates non-linearly, with larger marginal reductions at higher subsidy levels. Hassles substantially reduce the application rate. We find suggestive evidence that these hassles disproportionately screen out intended beneficiaries: the longer form deters below-poverty-line applicants, and the residence requirement deters those with above-median particulate exposure.</div>
+  <small><strong>Conferences:</strong> APPAM 2026 (scheduled) · AAEA 2026 (scheduled) · AFE 2025 · UC Berkeley/Davis Giannini Student Conference 2025, 2026 &nbsp;·&nbsp; <strong>Funding:</strong> <a href="https://ww2.arb.ca.gov/">California Air Resources Board</a> &nbsp;·&nbsp; <strong>PAP:</strong> <a href="https://www.socialscienceregistry.org/trials/17499">AEA RCT Registry</a></small>
 
 * **Got Goat? The Effects of a Digital Inventory Tool on Livestock Market Outcomes in Rural Nepal** <br>
   <em>With Travis Lybbert, Conner Mullally, and Nick Magnan</em><br>
   <small><strong>Conferences:</strong> AAEA 2025 &nbsp;·&nbsp; <strong>Funding:</strong> <a href="https://www.povertyactionlab.org/initiative/digital-agricultural-innovations-and-services-initiative-daisi">J-PAL DAISI</a> &nbsp;·&nbsp; <strong>PAP:</strong> <a href="https://www.socialscienceregistry.org/trials/14489">AEA RCT Registry</a></small>
+
+* **Partisan Differences in Adaptation to Wildfire Smoke: Evidence from Indoor Air Quality in California** <br>
+  <em>With Jamie Hansen-Lewis</em>
 
 * **Global Spillovers in Agricultural Technology Development** <br>
   <em>With Ashish Shenoy</em>
