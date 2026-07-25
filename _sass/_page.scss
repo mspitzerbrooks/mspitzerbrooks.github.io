@@ -410,8 +410,9 @@
   border: 1px solid $border-color;
   border-radius: $border-radius;
   padding: 0.15em 0.5em;
-  font-size: $type-size-6;
+  font-size: 0.875em; // between $type-size-6 (0.75em) and $type-size-5 (1em)
   font-family: $sans-serif;
+  font-weight: bold;
   color: $dark-gray;
   cursor: pointer;
 
@@ -425,6 +426,6 @@
   border-left: 3px solid $border-color;
   padding: 0.5em 0.75em;
   margin-top: 0.5em;
-  font-size: $type-size-6;
+  font-size: $type-size-5;
   color: $dark-gray;
 }
