@@ -15,7 +15,6 @@ My undergraduate studies were in Economics and Religion (with a focus on Buddhis
 
 ## News
 
-- I will be attending the Agricultural and Applied Economics Association Annual Meeting in Kansas City this July where I will present on each of the following projects: "The Pollution–Productivity Curve", "Monetary and Non-monetary Barriers to Accessing Environmental Public Benefit Programs", and "Strengthening Women's Livestock Cooperatives in Nepal with an Innovative Technology Bundle."
 - I will be presenting "Monetary and Non-monetary Barriers to Accessing Environmental Public Benefit Programs" at the 2026 Association for Public Policy Analysis & Management Fall Research Conference in Boston in November. 
 
 ## Research in Progress
@@ -25,13 +24,13 @@ My undergraduate studies were in Economics and Religion (with a focus on Buddhis
   <button class="toggle-abs" onclick="toggleAbstract('abs-pollution-productivity', this)">Abstract</button>
   <div id="abs-pollution-productivity" class="abstract-body" hidden>This paper provides novel evidence that workers in a high particulate matter air pollution setting partially adapt to chronic exposure, but that adaptation does not offset cumulative harm. Using ball-by-ball data from professional cricket in India, we find that a 10 µg/m3 increase in same-day PM2.5 reduces performance by about 1 percent. Effects are non-linear, with the largest marginal damages above approximately 50 µg/m3. Workers with the highest past exposure are roughly 40 percent less sensitive to acute shocks than those with median exposure histories, consistent with adaptation. Nevertheless, chronic exposure degrades performance by more than this adaptation offsets.</div>
   <small><strong>Invited Seminars:</strong> Indian Statistical Institute, Delhi · University of Massachusetts, Amherst · Middlebury College</small><br>
-  <small><strong>Conferences:</strong> AERE 2025 · UCSB Occasional Workshop in E&amp;RE · UC Boulder E&amp;RE Workshop · PacDev 2026 · WCERE 2026 · AAEA 2026 (scheduled)</small>
+  <small><strong>Conferences:</strong> AERE 2025 · UCSB Occasional Workshop in E&amp;RE · UC Boulder E&amp;RE Workshop · PacDev 2026 · WCERE 2026 · AAEA 2026</small>
 
 * **Monetary and Non-monetary Barriers to Accessing Environmental Public Benefit Programs: Experimental Evidence from California** <br>
   <em>With Shotaro Nakamura and Collin Weigel</em><br>
   <button class="toggle-abs" onclick="toggleAbstract('abs-carb', this)">Abstract</button>
   <div id="abs-carb" class="abstract-body" hidden>This paper shows that administrative hassles in an environmental public benefit program application shift the applicant pool away from the intended beneficiaries. In a randomized controlled trial with 100,000 households in California, we randomly vary the subsidy rate (0-100%) and administrative hassles in an application for a subsidized air purifier. Lowering the subsidy rate lowers application rates non-linearly, with larger marginal reductions at higher subsidy levels. Hassles substantially reduce the application rate. We find suggestive evidence that these hassles disproportionately screen out intended beneficiaries: the longer form deters below-poverty-line applicants, and the residence requirement deters those with above-median particulate exposure.</div>
-  <small><strong>Conferences:</strong> APPAM 2026 (scheduled) · AAEA 2026 (scheduled) · AFE 2025 · UC Berkeley/Davis Giannini Student Conference 2025, 2026 &nbsp;·&nbsp; <strong>Funding:</strong> <a href="https://ww2.arb.ca.gov/">California Air Resources Board</a> &nbsp;·&nbsp; <strong>PAP:</strong> <a href="https://www.socialscienceregistry.org/trials/17499">AEA RCT Registry</a></small>
+  <small><strong>Conferences:</strong> APPAM 2026 (scheduled) · AAEA 2026 · AFE 2025 · UC Berkeley/Davis Giannini Student Conference 2025, 2026 &nbsp;·&nbsp; <strong>Funding:</strong> <a href="https://ww2.arb.ca.gov/">California Air Resources Board</a> &nbsp;·&nbsp; <strong>PAP:</strong> <a href="https://www.socialscienceregistry.org/trials/17499">AEA RCT Registry</a></small>
 
 * **Strengthening Women's Livestock Cooperatives in Nepal with an Innovative Technology Bundle** <br>
   <em>With Travis Lybbert, Nick Magnan, Conner Mullally, and Bhola Shrestha</em><br>
