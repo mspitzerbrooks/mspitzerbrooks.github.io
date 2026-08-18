@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an applied microeconomist working at the intersection of environmental and development economics. My research focuses on the health and human capital impacts of exposure to environmental harms. I also have work on the role of information frictions in economic development.
+I am an applied microeconomist working at the intersection of environmental and development economics. My research focuses on the health and human capital impacts of exposure to environmental harms, particularly air pollution. I also have work on the role of information frictions in economic development. A cross-cutting theme in my research is how behavioral economics can yield insights into how people adapt to a changing environment.
 
-My undergraduate studies were in Economics and Religion (with a focus on Buddhist Philosophy) at Middlebury College. My senior thesis there focused on the role of partisan preferences in taxation and was published in the *Journal of Public Economics*. I studied abroad in Nepal as a college student and have ongoing fieldwork there as part of a J-PAL funded RCT. Prior to UC Davis, I worked at Mathematica Policy Research for four years on a range of international development impact evaluations in global health, energy infrastructure, and social protection. 
+My undergraduate studies were in Economics and Religion (with a focus on Buddhist Philosophy) at Middlebury College. My senior thesis there focused on the role of partisan preferences in taxation and was published in the [*Journal of Public Economics*](https://doi.org/10.1016/j.jpubeco.2019.104055). I studied abroad in Nepal as a college student and have ongoing fieldwork there as part of a J-PAL funded RCT. Prior to UC Davis, I worked at the Busara Center for Behavioral Economics in Nairobi, Kenya, and then spent four years at Mathematica Policy Research, conducting international development impact evaluations in global health, energy infrastructure, and social protection.
 
 **I am on the job market in the 2026-2027 academic year and can be reached at msbrooks@ucdavis.edu.** [Here is my CV](/files/BrooksCV.pdf "Matt's CV") and [here is my job market paper](/files/Brooks_PollutionProductivityCurve.pdf "Matt's JMP").
 

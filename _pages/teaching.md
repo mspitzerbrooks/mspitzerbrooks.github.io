@@ -5,13 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Upcoming teaching
+Please see [here](/files/Brooks_TA_GuestLecture_Evals.pdf "Matt teaching evals") for teaching evaluations.
 
-- **Instructor for [Summer 2026 Applied Economics Research Course](https://direct.ucdavis.edu/summer-applied-economics-research-course-fall-2023)** (UC Davis, undergraduate)<br>
-<button class="toggle-abs" onclick="toggleAbstract('desc-summer-2026', this)">Course Description</button>
+## Instructor
+
+- **Co-Instructor for [Applied Economics Research Course](https://direct.ucdavis.edu/summer-applied-economics-research-course-fall-2023)** (Summer 2026, UC Davis, undergraduate)<br>
+<button class="toggle-abs" onclick="toggleAbstract('desc-summer-2026', this)">Course Description</button>&nbsp; <a class="toggle-abs" href="/files/Syllabus_ARE_198_2026.pdf">Syllabus</a>
 <div id="desc-summer-2026" class="abstract-body" hidden>A five-week course mentoring students on independent research. Emphasis on designing a research question, working with data, and applying econometric techniques. Prerequisite: ARE 106 — Econometric Theory &amp; Applications.</div>
 
-## Teaching experience
+## Teaching assistant
 
 - **TA for ARE/ECN 115A Economic Development** (Winter 2026, UC Davis, undergraduate)<br>
 <button class="toggle-abs" onclick="toggleAbstract('desc-115a', this)">Course Description</button> &nbsp; <button class="toggle-abs" onclick="toggleAbstract('evals-115a', this)">Student evaluations (excerpt)</button>
@@ -22,6 +24,8 @@ author_profile: true
 <button class="toggle-abs" onclick="toggleAbstract('desc-are100b', this)">Course Description</button> &nbsp; <button class="toggle-abs" onclick="toggleAbstract('evals-are100b', this)">Student evaluations (excerpt)</button>
 <div id="desc-are100b" class="abstract-body" hidden>Price determination, and employment of resources under conditions of monopoly, oligopoly, and monopolistic competition.</div>
 <div id="evals-are100b" class="abstract-body" hidden><ul><li>"I appreciated how this TA taught concepts in a manner that made the material understandable. I like how he used analogies to teach concepts, which made the material more easier to digest."</li><li>"Matthew was constantly making sure we understood the problem solving process and gave us valuable time to ask questions and engage with the material."</li></ul></div>
+
+## Guest lecturer
 
 - **Guest lecture in ARE 133: Introduction to Behavioral Economics** on April 7, 2026 (UC Davis, undergraduate)<br>
 <small><em>Topic: "Monetary and Non-monetary Barriers to Accessing Environmental Public Benefit Programs: Experimental Evidence from California"</em></small><br>

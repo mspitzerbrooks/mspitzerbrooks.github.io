@@ -422,6 +422,20 @@
   }
 }
 
+// link styled as a toggle button (e.g. "Syllabus" opens a PDF directly)
+a.toggle-abs {
+  display: inline-block;
+  text-decoration: none;
+  color: $dark-gray;
+
+  &:hover,
+  &:focus,
+  &:visited {
+    text-decoration: none;
+    color: $darker-gray;
+  }
+}
+
 .abstract-body {
   border-left: 3px solid $border-color;
   padding: 0.5em 0.75em;

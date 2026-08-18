@@ -27,7 +27,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/BrooksCV.pdf
 
   - title: "For Students"
     url: /students/
