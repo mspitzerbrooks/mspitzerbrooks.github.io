@@ -15,7 +15,8 @@ My undergraduate studies were in Economics and Religion (with a focus on Buddhis
 
 ## News
 
-- I will be presenting "Monetary and Non-monetary Barriers to Accessing Environmental Public Benefit Programs" at the 2026 Association for Public Policy Analysis & Management Fall Research Conference in Boston in November. 
+- I will present “The Pollution–Productivity Curve: Non-Linear Effects and Adaptation in High-Pollution Environments” at the Center for Effective Global Action Research Retreat at UC Berkeley in October.
+- I will present "Monetary and Non-monetary Barriers to Accessing Environmental Public Benefit Programs" at the 2026 Association for Public Policy Analysis & Management Fall Research Conference in Boston in November. 
 
 ## Research in Progress
 

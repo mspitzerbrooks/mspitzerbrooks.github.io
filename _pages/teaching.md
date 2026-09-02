@@ -9,11 +9,16 @@ Please see [here](/files/Brooks_TA_GuestLecture_Evals.pdf "Matt teaching evals")
 
 ## Instructor
 
-- **Co-Instructor for [Applied Economics Research Course](https://direct.ucdavis.edu/summer-applied-economics-research-course-fall-2023)** (Summer 2026, UC Davis, undergraduate)<br>
+- **Instructor for [Applied Economics Research Course](https://direct.ucdavis.edu/summer-applied-economics-research-course-fall-2023)** (Summer 2026, UC Davis, undergraduate)<br>
 <button class="toggle-abs" onclick="toggleAbstract('desc-summer-2026', this)">Course Description</button>&nbsp; <a class="toggle-abs" href="/files/Syllabus_ARE_198_2026.pdf">Syllabus</a>
 <div id="desc-summer-2026" class="abstract-body" hidden>A five-week course mentoring students on independent research. Emphasis on designing a research question, working with data, and applying econometric techniques. Prerequisite: ARE 106 — Econometric Theory &amp; Applications.</div>
 
 ## Teaching assistant
+
+- **TA for ARE 133 Introduction to Behavioral Economics** (Fall 2026, UC Davis, undergraduate)<br>
+<button class="toggle-abs" onclick="toggleAbstract('desc-115a', this)">Course Description</button> 
+<div id="desc-115a" class="abstract-body" hidden>Inclusion of non-economic factors such as psychological principles in economic decisions and model predictions. Emphasis on behavioral principles, resulting strategies and implications for diverse market settings.</div>
+
 
 - **TA for ARE/ECN 115A Economic Development** (Winter 2026, UC Davis, undergraduate)<br>
 <button class="toggle-abs" onclick="toggleAbstract('desc-115a', this)">Course Description</button> &nbsp; <button class="toggle-abs" onclick="toggleAbstract('evals-115a', this)">Student evaluations (excerpt)</button>
