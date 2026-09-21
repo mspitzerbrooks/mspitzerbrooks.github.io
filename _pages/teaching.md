@@ -5,7 +5,19 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Please see [here](/files/Brooks_TA_GuestLecture_Evals.pdf "Matt teaching evals") for teaching evaluations.
+Please see [here](/files/Brooks_TeachingEvals.pdf "Matt teaching evals") for teaching evaluations from my experience as an Instructor (1 course), Teaching Assistant (2 courses), and Guest Lecturer (2 lectures).
+
+My average ratings for teaching effectiveness* (1-5, 5 highest) are below:
+
+| Role | N (students) | Mean | SD | Median |
+|---|---:|---:|---:|---:|
+| Instructor | 12 | 4.8 | 0.4 | 5 |
+| Teaching assistant | 48 | 4.1 | 0.8 | 4 |
+| Guest lecturer | 66 | 4.3 | 0.8 | 4 |
+| Overall | 126 | 4.3 | 0.8 | 4 |
+
+*Please indicate the overall teaching effectiveness of the instructor/teaching assistant/guest lecturer. (5=Excellent, 4=Very good, 3=Satisfactory, 2=Fair, 1=Poor)
+
 
 ## Instructor
 
