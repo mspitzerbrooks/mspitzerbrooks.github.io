@@ -29,7 +29,7 @@ My average ratings for teaching effectiveness* (1-5, 5 highest) are below:
 
 - **TA for ARE 133 Introduction to Behavioral Economics** (Fall 2026, UC Davis, undergraduate)<br>
 <button class="toggle-abs" onclick="toggleAbstract('desc-115a', this)">Course Description</button> 
-<div id="desc-115a" class="abstract-body" hidden>Inclusion of non-economic factors such as psychological principles in economic decisions and model predictions. Emphasis on behavioral principles, resulting strategies and implications for diverse market settings.</div>
+<div id="desc-115a" class="abstract-body" hidden>This course introduces behavioral economics through theory, evidence, and real-world applications. It focuses on deviations from the rational decision-making model that underpins most theoretical frameworks. We will examine how behavioral biases, time and cognitive constraints, emotions or other common or systematic deviations influence consumer choices, and may lead to suboptimal outcomes. We will explicitly link core behavioral concepts to concrete applications in markets, policy and our day to day decisions. This course is not a rejection of traditional economic theories; instead it argues that incorporating insights from the behavioral economics literature can enhance our explanatory and predictive power of consumer and producer behavior.</div>
 
 
 - **TA for ARE/ECN 115A Economic Development** (Winter 2026, UC Davis, undergraduate)<br>
