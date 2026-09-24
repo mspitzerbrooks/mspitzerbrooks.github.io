@@ -14,10 +14,9 @@ My average ratings for teaching effectiveness* (1-5, 5 highest) are below:
 | Instructor | 12 | 4.8 | 0.4 | 5 |
 | Teaching assistant | 48 | 4.1 | 0.8 | 4 |
 | Guest lecturer | 66 | 4.3 | 0.8 | 4 |
-| Overall | 126 | 4.3 | 0.8 | 4 |
+| **Overall** | **126** | **4.3** | **0.8** | **4** |
 
 *Please indicate the overall teaching effectiveness of the instructor/teaching assistant/guest lecturer. (5=Excellent, 4=Very good, 3=Satisfactory, 2=Fair, 1=Poor)
-
 
 ## Instructor
 
@@ -30,7 +29,6 @@ My average ratings for teaching effectiveness* (1-5, 5 highest) are below:
 - **TA for ARE 133 Introduction to Behavioral Economics** (Fall 2026, UC Davis, undergraduate)<br>
 <button class="toggle-abs" onclick="toggleAbstract('desc-115a', this)">Course Description</button> 
 <div id="desc-115a" class="abstract-body" hidden>This course introduces behavioral economics through theory, evidence, and real-world applications. It focuses on deviations from the rational decision-making model that underpins most theoretical frameworks. We will examine how behavioral biases, time and cognitive constraints, emotions or other common or systematic deviations influence consumer choices, and may lead to suboptimal outcomes. We will explicitly link core behavioral concepts to concrete applications in markets, policy and our day to day decisions. This course is not a rejection of traditional economic theories; instead it argues that incorporating insights from the behavioral economics literature can enhance our explanatory and predictive power of consumer and producer behavior.</div>
-
 
 - **TA for ARE/ECN 115A Economic Development** (Winter 2026, UC Davis, undergraduate)<br>
 <button class="toggle-abs" onclick="toggleAbstract('desc-115a', this)">Course Description</button> &nbsp; <button class="toggle-abs" onclick="toggleAbstract('evals-115a', this)">Student evaluations (excerpt)</button>
@@ -55,6 +53,11 @@ My average ratings for teaching effectiveness* (1-5, 5 highest) are below:
 <button class="toggle-abs" onclick="toggleAbstract('desc-are176', this)">Course Description</button> &nbsp; <button class="toggle-abs" onclick="toggleAbstract('evals-are176', this)">Student evaluations (excerpt)</button>
 <div id="desc-are176" class="abstract-body" hidden>Role of the environment in economic activity and methods for protecting and enhancing environmental quality; implications of market failures for public policy; design of environmental policy; theory of welfare measurement; measuring the benefits of environmental improvement.</div>
 <div id="evals-are176" class="abstract-body" hidden><ul><li>"The research was very interesting and more shocking than I originally predicted!"</li><li>"Matt was able to simplify his research to be very approachable and more easily understood."</li><li>"He took the time to properly explain the concept! Explained everything at a college level did not overcomplicate the subject with flashy words."</li></ul></div>
+
+- **Guest talk in ARE 202A: Introduction to Applied Research Methods** on September 29, 2026 (UC Davis, doctoral)<br>
+<small><em>Topic: Designing a research question</em></small><br>
+<button class="toggle-abs" onclick="toggleAbstract('desc-are202a', this)">Course Description</button>
+<div id="desc-are202a" class="abstract-body" hidden>Study of philosophy and methodology of applied research in agricultural economics. Methods of conceptualization of researchable topics. Method of communication and constructive criticism.</div>
 
 ## Mentoring
 
