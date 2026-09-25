@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Please see [here](/files/Brooks_TeachingEvals.pdf "Matt teaching evals") for teaching evaluations from my experience as an Instructor (1 course), Teaching Assistant (2 courses), and Guest Lecturer (2 lectures).
+My [teaching portfolio (PDF)](/files/Brooks_TeachingPortfolio.pdf "Matt's teaching portfolio") has teaching evaluations from my experience as an Instructor (1 course), Teaching Assistant (2 courses), and Guest Lecturer (2 lectures).
 
 My average ratings for teaching effectiveness* (1-5, 5 highest) are below:
 
@@ -62,8 +62,14 @@ My average ratings for teaching effectiveness* (1-5, 5 highest) are below:
 ## Mentoring
 
 - **Graduate Student Coordinator** for [Managerial Economics Undergraduate Student Café](https://direct.ucdavis.edu/student-cafe) (Spring 2026, Fall 2026)
+  - Talks: “Effective AI use as a student” (December 2, 2026) 
 
 ## Training
 
 - **[Diversity and Inclusion in Research, Education, and Career Training Program](https://direct.ucdavis.edu/)** at UC Davis
   - [Graduate Inclusive Education and Mentoring Training (GET) Workshop](https://direct.ucdavis.edu/get-workshop), Sep 2-5 2025
+- **[Center for Educational Effectiveness](https://cee.ucdavis.edu/)** at UC Davis
+  - Active Learning: Activating Lectures (Feb 2, 2026)
+  - Inclusive Teaching: Planning Your First Day (Feb 10, 2026)
+  - Inclusive Teaching: Facilitation for Engagement (Feb 19, 2026)
+
