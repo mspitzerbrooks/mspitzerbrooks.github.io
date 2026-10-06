@@ -16,7 +16,7 @@ My undergraduate studies were in Economics and Religion (with a focus on Buddhis
 ## News
 
 - Excited to share that "Strengthening Women's Livestock Cooperatives in Nepal with an Innovative Technology Bundle" has received an additional ~$50,000 of funding from J-PAL to explore long-run impacts.
-- I will present “The Pollution–Productivity Curve: Non-Linear Effects and Adaptation in High-Pollution Environments” at the Center for Effective Global Action Research Retreat at UC Berkeley in October.
+- I will present “The Pollution–Productivity Curve: Non-Linear Effects and Adaptation in High-Pollution Environments” at the [Center for Effective Global Action Research Retreat](https://cega.berkeley.edu/event/cega-research-retreat-r2-2026/) at UC Berkeley in October.
 - I will present "Monetary and Non-monetary Barriers to Accessing Environmental Public Benefit Programs" at the 2026 Association for Public Policy Analysis & Management Fall Research Conference in Boston in November. 
 - I will TA for ARE 133 Introduction to Behavioral Economics in Fall 2026, and will present on "Effective AI use as a student" in the Managerial Economics Student Café in December. 
 
