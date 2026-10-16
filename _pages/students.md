@@ -17,7 +17,7 @@ If you are interested in learning more about research and/or how to prepare for 
 * [Applied Economics Research Course](https://direct.ucdavis.edu/summer-applied-economics-research-course-fall-2023) 
   * A five-week course mentoring students on independent research. Emphasis on designing a research
 question, working with data, and applying econometric techniques.
-  * A great chance to see if you like doing research. I will be a co-instructor in Summer 2026!
+  * A great chance to see if you like doing research. I was a co-instructor in Summer 2026!
 
 ### Considering a PhD?
 
