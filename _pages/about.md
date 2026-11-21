@@ -28,12 +28,11 @@ My undergraduate studies were in Economics and Religion (with a focus on Buddhis
   <small><strong>Invited Seminars:</strong> Indian Statistical Institute, Delhi · University of Massachusetts, Amherst · Middlebury College</small><br>
   <small><strong>Conferences:</strong> AERE 2025 · UCSB Occasional Workshop in E&amp;RE · UC Boulder E&amp;RE Workshop · PacDev 2026 · WCERE 2026 · AAEA 2026</small>
 
-* **[Monetary and Non-monetary Barriers to Accessing Environmental Public Benefit Programs: Experimental Evidence from California](files/Brooks_PAP_EnvironmentalPublicBenefefits.pdf)** <br>
+* **Monetary and Non-monetary Barriers to Accessing Environmental Public Benefit Programs: Experimental Evidence from California** <br>
   <em>With Shotaro Nakamura and Collin Weigel</em><br>
-  <small>Pre-Analysis Plan linked above; draft coming soon!</small><br>
   <button class="toggle-abs" onclick="toggleAbstract('abs-carb', this)">Abstract</button>
   <div id="abs-carb" class="abstract-body" hidden>This paper studies how monetary and non-monetary costs affect who accesses a public benefit program for a subsidized air purifier. In a randomized controlled trial with approximately 90,000 households in California, we randomly vary the subsidy rate (0-100%) and administrative burdens in an application for a subsidized air purifier. Lowering the subsidy rate lowers application rates non-linearly, with larger marginal reductions at higher subsidy levels. Hassles substantially reduce the application rate. We find suggestive evidence that these hassles screen out intended beneficiaries: the longer form disproportionately deters below-poverty-line applicants, and the residence requirement overly deters those with above-median particulate exposure.</div>
-  <small><strong>Conferences:</strong> APPAM 2026 · AAEA 2026 · AFE 2025 · UC Berkeley/Davis Giannini Student Conference 2025, 2026 &nbsp;·&nbsp; <strong>Funding:</strong> <a href="https://ww2.arb.ca.gov/">California Air Resources Board</a> &nbsp;·&nbsp; <strong>PAP:</strong> <a href="https://www.socialscienceregistry.org/trials/17499">AEA RCT Registry</a></small>
+  <small><strong>Conferences:</strong> APPAM 2026 · AAEA 2026 · AFE 2025 · UC Berkeley/Davis Giannini Student Conference 2025, 2026 &nbsp;·&nbsp; <strong>Funding:</strong> <a href="https://ww2.arb.ca.gov/">California Air Resources Board</a> &nbsp;·&nbsp; [Pre-Analysis Plan](files/Brooks_PAP_EnvironmentalPublicBenefefits.pdf)  &nbsp;·&nbsp; <a href="https://www.socialscienceregistry.org/trials/17499">AEA RCT Registry</a></small>
 
 * **Strengthening Women's Livestock Cooperatives in Nepal with an Innovative Technology Bundle** <br>
   <em>With Travis Lybbert, Nick Magnan, Conner Mullally, and Bhola Shrestha</em><br>
